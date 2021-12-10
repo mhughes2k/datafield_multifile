@@ -1,0 +1,9 @@
+# README #
+The database file field only permits a single file to be attached to the database field.
+This mulfi-file field creates allows users to attach multiple files to a database record.
+
+## How do I set it up? ##
+Place the files into mod/data/field/multifile and run the administration notifications.
+
+
+
